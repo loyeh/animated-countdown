@@ -10,6 +10,7 @@
   font-size: 3vmin;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   position: relative;
+  scale: 2;
 }
 
 .go,
